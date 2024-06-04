@@ -9,7 +9,6 @@ const { remini } = require('betabotz-tools')
 const path = require('path');
 const os = require('os');
 const fs = require('fs');
-const rulz = require("rul-scrape");
 const ptz = require('./function/index') 
 const axios = require('axios')
 
